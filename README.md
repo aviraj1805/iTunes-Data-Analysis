@@ -141,7 +141,7 @@ The iTunes Music Store dataset is a widely used sample database originally distr
 ---
 
 ## Author
-
+### Aviraj Virape
 **Internship Project — Data Analytics**  
 Apple iTunes Music Store Database Analysis  
 Completed: March 2026
