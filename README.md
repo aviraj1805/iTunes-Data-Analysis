@@ -13,9 +13,9 @@ The goal is to extract actionable business insights using structured SQL queries
 ```
 iTunes-Data-Analysis/
 |
-|-- iTuneMusic_Internship.sql          # Main SQL script with all analysis queries
+|-- iTuneMusic_Internship.sql          # Main SQL script 
 |
-|-- Datasets/                          # Raw CSV data files imported into MySQL
+|-- Datasets/                          # Raw CSV data files 
 |   |-- artist.csv
 |   |-- album.csv
 |   |-- track.csv
